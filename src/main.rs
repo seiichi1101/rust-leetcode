@@ -77,6 +77,7 @@ mod problem_938;
 mod problem_94;
 mod problem_95;
 mod problem_96;
+mod problem_965;
 mod problem_98;
 mod problem_99;
 mod problem_tmp;
