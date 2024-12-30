@@ -13,6 +13,7 @@ mod tests {
     #[test]
     fn test1() {
         let input = vec![3, 0, 1];
-        assert_eq!(problem_tmp::Solution::tmp(input), 4);
+        let output = 4;
+        assert_eq!(problem_tmp::Solution::tmp(input), output);
     }
 }
