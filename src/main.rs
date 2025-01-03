@@ -43,6 +43,7 @@ mod problem_206;
 mod problem_207;
 mod problem_21;
 mod problem_222;
+mod problem_2236;
 mod problem_226;
 mod problem_230;
 mod problem_234;
