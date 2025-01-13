@@ -60,6 +60,7 @@ mod problem_314;
 mod problem_35;
 mod problem_404;
 mod problem_501;
+mod problem_530;
 mod problem_54;
 mod problem_543;
 mod problem_563;
