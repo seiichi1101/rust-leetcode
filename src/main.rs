@@ -61,6 +61,8 @@ mod problem_298;
 mod problem_314;
 mod problem_331;
 mod problem_333;
+mod problem_337;
+mod problem_341;
 mod problem_35;
 mod problem_404;
 mod problem_501;
